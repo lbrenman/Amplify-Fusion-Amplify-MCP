@@ -2,6 +2,8 @@
 
 An MCP Server implemented in Amplify Fusion for interacting with Amplify.
 
+[Demo video](youtu.be/S9oTX9gWYmw)
+
 Current tools:
 
 * GetAmplifyMarketplacePendingSubscriptions - Get Amplify marketplace pending subscriptions
