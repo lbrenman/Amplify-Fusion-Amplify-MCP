@@ -4,6 +4,8 @@ An MCP Server implemented in Amplify Fusion for interacting with Amplify.
 
 [Demo video](youtu.be/S9oTX9gWYmw)
 
+* Requires a Service Account client id and secret in the Amplify platform
+
 Current tools:
 
 * GetAmplifyMarketplacePendingSubscriptions - Get Amplify marketplace pending subscriptions
