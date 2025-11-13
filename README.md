@@ -14,3 +14,4 @@ Current tools:
 * UpdateAmplifyMarketplacePendingSubscriptions - Updated Amplify marketplace pending subscription requests to approved or rejected
 * GetAmplifyMarketplacePendingApplicationRegistrations -  - Get Amplify marketplace pending application registration requests
 * UpdateAmplifyMarketplacePendingApplicationRegistrations - Updated Amplify marketplace pending application registration requests to approved or rejected
+* GetAPIMetrics	- Get Engage Business Insights (API Metrics) by duration
